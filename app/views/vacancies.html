@@ -19,10 +19,9 @@
   <div class="column-two-thirds">
     <h1 class="heading-xlarge">Current Vacancies</h1>
 
-    <ul>
+    <ul class="list">
       {% for vacancy in vacancies %}
         {% include 'includes/vacancy.html' %}
-        <hr />
       {% endfor %}
     </ul>
 

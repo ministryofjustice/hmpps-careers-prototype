@@ -1,8 +1,20 @@
-<li>
-  Vacancy: {{ vacancy.title }}<br />
-  Location: {{ vacancy.location }}<br />
-  Role: {{ vacancy.role_type }}<br />
-  Salary: {{ vacancy.salary }}<br />
-  Closes: {{ vacancy.closing_date }}<br />
-  <a href="{{vacancy.url}}">Apply</a>
+<li class="vacancy">
+  <dt>Vacancy</dt>
+  <dd>{{ vacancy.title }}</dd>
+
+  <dt>Location</dt>
+  <dd>{{ vacancy.location }}</dd>
+
+  <dt>Role</dt>
+  <dd>{{ vacancy.role_type }}</dd>
+
+  <dt>Salary</dt>
+  <dd>{{ vacancy.salary }}</dd>
+
+  <dt>Closes</dt>
+  <dd>{{ vacancy.closing_date }}</dd>
+
+  <dt>
+    <a class="button" href="{{vacancy.url}}">View Details</a>
+  </dt>
 </li>
