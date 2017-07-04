@@ -18,6 +18,14 @@
 <div class="grid-row">
   <div class="column-two-thirds">
     <h1 class="heading-xlarge">Current Vacancies</h1>
+
+    <ul>
+      {% for vacancy in vacancies %}
+        {% include 'includes/vacancy.html' %}
+        <hr />
+      {% endfor %}
+    </ul>
+
   </div>
 </div>
 </main>

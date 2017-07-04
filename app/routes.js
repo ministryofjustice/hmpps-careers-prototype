@@ -8,4 +8,10 @@ router.get('/', function (req, res) {
 
 // add your routes here
 
+router.get('/vacancies', function (req, res) {
+  res.render('vacancies', {
+    vacancies: require('./assets/data/vacancies.json')
+  })
+})
+
 module.exports = router
