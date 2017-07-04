@@ -2,7 +2,11 @@
     {
         "closing_date": "21 Jul 2017 23:55 BST",
         "id": "10203",
-        "location": "Sutton",
+        "location": {
+            "lat": 51.3357233,
+            "lng": -0.1890383
+        },
+        "prison": "HMP High Down",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "For 41 hours a week, \u00a332,843, For 39 hours a week, \u00a331,453",
         "title": "201706: Prison Officer - HMP High Down",
@@ -11,7 +15,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9850",
-        "location": "Aylesbury",
+        "location": {
+            "lat": 51.8225809,
+            "lng": -0.8016525999999999
+        },
+        "prison": "HMYOI Aylesbury",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a328,456 - \u00a329,403",
         "title": "201706: Prison Officer - HMYOI Aylesbury",
@@ -20,7 +28,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9851",
-        "location": "Bedford",
+        "location": {
+            "lat": 52.1389661,
+            "lng": -0.4696008999999999
+        },
+        "prison": "HMP/YOI Bedford",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a328,456 - \u00a329,403",
         "title": "201706: Prison Officer - HMP/YOI Bedford",
@@ -29,7 +41,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9852",
-        "location": "London",
+        "location": {
+            "lat": 51.4976997,
+            "lng": 0.09784160000000001
+        },
+        "prison": "HMP/YOI Isis",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a329, 453",
         "title": "201706: Prison Officer - HMP Belmarsh & HMP/YOI Isis",
@@ -38,7 +54,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9853",
-        "location": "Wolverhampton",
+        "location": {
+            "lat": 52.6473483,
+            "lng": -2.1098351
+        },
+        "prison": "HMP Featherstone",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer - HMYOI Brinsford & HMP Featherstone",
@@ -47,7 +67,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9854",
-        "location": "London",
+        "location": {
+            "lat": 51.4516617,
+            "lng": -0.1250917
+        },
+        "prison": "HMP Brixton",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a331,014",
         "title": "201706: Prison Officer - HMP Brixton",
@@ -56,7 +80,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9855",
-        "location": "Aylesbury",
+        "location": {
+            "lat": 51.8931365,
+            "lng": -1.0072932
+        },
+        "prison": "HMP Grendon",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a328,456",
         "title": "201706: Prison Officer - HMP Bullingdon and HMP Grendon",
@@ -65,7 +93,11 @@
     {
         "closing_date": "7 Jul 2017 23:55 BST",
         "id": "9857",
-        "location": "Norwich",
+        "location": {
+            "lat": 52.759454,
+            "lng": 1.3458199
+        },
+        "prison": "HMP Bure",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer - HMP Bure",
@@ -74,7 +106,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9856",
-        "location": "Milton Keynes",
+        "location": {
+            "lat": 52.0143898,
+            "lng": -0.8083142
+        },
+        "prison": "HMP Woodhill",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a328,456",
         "title": "201706: Prison Officer - HMP Woodhill",
@@ -83,7 +119,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9858",
-        "location": "Cardiff",
+        "location": {
+            "lat": 51.4810689,
+            "lng": -3.1683326
+        },
+        "prison": "HMP Cardiff",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer - HMP Cardiff",
@@ -92,7 +132,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9859",
-        "location": "Newton Abbot",
+        "location": {
+            "lat": 50.5104924,
+            "lng": -3.6518204
+        },
+        "prison": "HMP Channings Wood",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer - HMP Channings Wood",
@@ -101,7 +145,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9860",
-        "location": "Winchester",
+        "location": {
+            "lat": 51.0625986,
+            "lng": -1.3279811
+        },
+        "prison": "HMP Winchester",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer - HMP Winchester",
@@ -110,7 +158,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9861",
-        "location": "Chelmsford",
+        "location": {
+            "lat": 51.7361324,
+            "lng": 0.4860732999999999
+        },
+        "prison": "HMP Chelmsford",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a326,456",
         "title": "201706: Prison Officer - HMP Chelmsford",
@@ -119,7 +171,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9862",
-        "location": "March",
+        "location": {
+            "lat": 52.57534589999999,
+            "lng": 0.0811047
+        },
+        "prison": "HMP Whitemoor",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a326,456",
         "title": "201706: Prison Officer - HMP Whitemoor",
@@ -128,7 +184,11 @@
     {
         "closing_date": "7 Jul 2017 23:55 BST",
         "id": "9863",
-        "location": "Woking",
+        "location": {
+            "lat": 51.3217467,
+            "lng": -0.6432669
+        },
+        "prison": "HMP Coldingley",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a328,456",
         "title": "201706: Prison Officer - HMP Coldingley",
@@ -137,7 +197,11 @@
     {
         "closing_date": "7 Jul 2017 23:55 BST",
         "id": "9864",
-        "location": "Norwich",
+        "location": {
+            "lat": 52.6369762,
+            "lng": 1.3179051
+        },
+        "prison": "HMP Norwich",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer - HMP Norwich",
@@ -146,7 +210,11 @@
     {
         "closing_date": "7 Jul 2017 23:55 BST",
         "id": "9865",
-        "location": "Rochester",
+        "location": {
+            "lat": 51.3663986,
+            "lng": 0.4942465
+        },
+        "prison": "HMYOI Cookham Wood",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a328,456",
         "title": "201706: Prison Officer - HMYOI Cookham Wood",
@@ -155,7 +223,11 @@
     {
         "closing_date": "7 Jul 2017 23:55 BST",
         "id": "9866",
-        "location": "Thetford",
+        "location": {
+            "lat": 52.5538889,
+            "lng": 0.8580555999999999
+        },
+        "prison": "HMP Wayland",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer - HMP Wayland",
@@ -164,7 +236,11 @@
     {
         "closing_date": "7 Jul 2017 23:55 BST",
         "id": "9867",
-        "location": "Princetown",
+        "location": {
+            "lat": 50.5495271,
+            "lng": -3.9963275
+        },
+        "prison": "HMP Dartmoor",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer - HMP Dartmoor",
@@ -173,7 +249,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9888",
-        "location": "London",
+        "location": {
+            "lat": 51.4500051,
+            "lng": -0.1775711
+        },
+        "prison": "HMP Wandsworth",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a331,014 - \u00a332,145",
         "title": "201706: Prison Officer - HMP Wandsworth",
@@ -182,7 +262,11 @@
     {
         "closing_date": "7 Jul 2017 23:55 BST",
         "id": "9895",
-        "location": "Usk",
+        "location": {
+            "lat": 51.6856926,
+            "lng": -2.9414967
+        },
+        "prison": "HMP Usk/Prescoed",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer - HMP Usk/Prescoed",
@@ -191,7 +275,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9898",
-        "location": "Hertford",
+        "location": {
+            "lat": 51.72473859999999,
+            "lng": -0.5410677
+        },
+        "prison": "HMP The Mount",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a328,456",
         "title": "201706: Prison Officer - HMP The Mount",
@@ -200,7 +288,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9902",
-        "location": "Barnard Castle",
+        "location": {
+            "lat": 54.5432115,
+            "lng": -1.9367631
+        },
+        "prison": "HMYOI Deerbolt",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer - HMYOI Deerbolt",
@@ -209,7 +301,11 @@
     {
         "closing_date": "7 Jul 2017 23:55 BST",
         "id": "9908",
-        "location": "Sutton",
+        "location": {
+            "lat": 51.3384631,
+            "lng": -0.1880442
+        },
+        "prison": "HMP/YOI Downview",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a331,453",
         "title": "201706: Prison Officer - HMP/YOI Downview",
@@ -218,7 +314,11 @@
     {
         "closing_date": "7 Jul 2017 23:55 BST",
         "id": "9909",
-        "location": "Durham",
+        "location": {
+            "lat": 54.8064867,
+            "lng": -1.549427
+        },
+        "prison": "HMP Low Newton",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer - HMP Durham, HMP Frankland & HMP Low Newton",
@@ -227,7 +327,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9910",
-        "location": "Lichfield",
+        "location": {
+            "lat": 52.6525736,
+            "lng": -1.8066018
+        },
+        "prison": "HMYOI Swinfen Hall",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer - HMYOI Swinfen Hall",
@@ -236,7 +340,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9911",
-        "location": "Market Drayton",
+        "location": {
+            "lat": 52.8688371,
+            "lng": -2.5218096
+        },
+        "prison": "HMYOI Stoke Heath",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer - HMYOI Stoke Heath",
@@ -245,7 +353,11 @@
     {
         "closing_date": "7 Jul 2017 23:55 BST",
         "id": "9912",
-        "location": "Wotton-under-Edge",
+        "location": {
+            "lat": 51.63504709999999,
+            "lng": -2.468383
+        },
+        "prison": "HMP Eastwood Park",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer - HMP Eastwood Park",
@@ -254,7 +366,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9913",
-        "location": "Oakham",
+        "location": {
+            "lat": 52.7469327,
+            "lng": -0.5821626999999999
+        },
+        "prison": "HMP Stocken",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer - HMP Stocken",
@@ -263,7 +379,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9915",
-        "location": "Eccleshall ,Stafford",
+        "location": {
+            "lat": 52.87726,
+            "lng": -2.2425361
+        },
+        "prison": "HMP/YOI Drake Hall",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer - HMP Stafford & HMP/YOI Drake Hall",
@@ -272,7 +392,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9914",
-        "location": "Sheerness",
+        "location": {
+            "lat": 51.3929227,
+            "lng": 0.8536864000000001
+        },
+        "prison": "HMP Swaleside",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a328,456",
         "title": "201706: Prison Officer - HMP Elmley & HMP Swaleside",
@@ -281,7 +405,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9917",
-        "location": "Devizes",
+        "location": {
+            "lat": 51.2833485,
+            "lng": -2.0430271
+        },
+        "prison": "HMP Erlestoke",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a326,456",
         "title": "201706: Prison Officer - HMP Erlestoke",
@@ -290,7 +418,11 @@
     {
         "closing_date": "7 Jul 2017 23:55 BST",
         "id": "9916",
-        "location": "Woking",
+        "location": {
+            "lat": 51.2716941,
+            "lng": -0.4908906
+        },
+        "prison": "HMP/YOI Send",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a328,456",
         "title": "201706: Prison Officer - HMP/YOI Send",
@@ -299,7 +431,11 @@
     {
         "closing_date": "7 Jul 2017 23:55 BST",
         "id": "9918",
-        "location": "London",
+        "location": {
+            "lat": 51.4415566,
+            "lng": -0.4340565
+        },
+        "prison": "HMYOI Feltham",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a331,453 - \u00a332,521",
         "title": "201706: Prison Officer - HMYOI Feltham",
@@ -308,7 +444,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9920",
-        "location": "Derby",
+        "location": {
+            "lat": 52.8822614,
+            "lng": -1.7253463
+        },
+        "prison": "HMP/YOI Foston Hall",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer - HMP/YOI Foston Hall",
@@ -317,7 +457,11 @@
     {
         "closing_date": "7 Jul 2017 23:55 BST",
         "id": "9921",
-        "location": "Retford",
+        "location": {
+            "lat": 53.3200826,
+            "lng": -0.9961172
+        },
+        "prison": "HMP Ranby",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer - HMP Ranby",
@@ -326,7 +470,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9922",
-        "location": "Leicester",
+        "location": {
+            "lat": 52.6274509,
+            "lng": -1.131901
+        },
+        "prison": "HMP Leicester",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer -  HMP Gartree & HMP Leicester",
@@ -335,7 +483,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9923",
-        "location": "Leyland ,Preston",
+        "location": {
+            "lat": 53.774924,
+            "lng": -2.8731828
+        },
+        "prison": "HMP Kirkham",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer - HMP Wymott, HMP Preston, HMP Garth & HMP Kirkham",
@@ -344,7 +496,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9924",
-        "location": "Shaftesbury",
+        "location": {
+            "lat": 50.9847775,
+            "lng": -2.2215698
+        },
+        "prison": "HMP Guys Marsh",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a326,456",
         "title": "201706: Prison Officer - HMP Guys Marsh",
@@ -353,7 +509,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9925",
-        "location": "Millom",
+        "location": {
+            "lat": 54.2022592,
+            "lng": -3.3125602
+        },
+        "prison": "HMP Haverigg",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer - HMP Haverigg",
@@ -362,7 +522,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9926",
-        "location": "Portland",
+        "location": {
+            "lat": 50.5497794,
+            "lng": -2.4219912
+        },
+        "prison": "HMYOI Portland & IRC Verne",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer -  HMYOI Portland & IRC Verne",
@@ -371,7 +535,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9927",
-        "location": "Worcester",
+        "location": {
+            "lat": 52.3246695,
+            "lng": -1.9870964
+        },
+        "prison": "HMP Hewell",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer - HMP Hewell",
@@ -380,7 +548,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9928",
-        "location": "London",
+        "location": {
+            "lat": 51.5169637,
+            "lng": -0.2403418
+        },
+        "prison": "HMP/YOI Wormwood Scrubs",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a331,014",
         "title": "201706: Prison Officer - HMP/YOI Pentonville & HMP/YOI Wormwood Scrubs",
@@ -389,7 +561,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9929",
-        "location": "Newmarket",
+        "location": {
+            "lat": 52.136974,
+            "lng": 0.510659
+        },
+        "prison": "HMP Highpoint",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a328,456",
         "title": "201706: Prison Officer -  HMP Highpoint",
@@ -398,7 +574,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9930",
-        "location": "Rugby",
+        "location": {
+            "lat": 52.3269943,
+            "lng": -1.2465741
+        },
+        "prison": "HMP Onley",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer - HMP Onley",
@@ -407,7 +587,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9931",
-        "location": "Woodbridge",
+        "location": {
+            "lat": 52.051042,
+            "lng": 1.451328
+        },
+        "prison": "HMP Hollesley Bay",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer -  HMYOI Warren Hill & HMP Hollesley Bay",
@@ -416,7 +600,11 @@
     {
         "closing_date": "7 Jul 2017 23:55 BST",
         "id": "9932",
-        "location": "Nottingham",
+        "location": {
+            "lat": 52.9472902,
+            "lng": -0.9116372
+        },
+        "prison": "HMP Whatton",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer - HMP Nottingham & HMP Whatton",
@@ -425,7 +613,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9933",
-        "location": "Hull",
+        "location": {
+            "lat": 53.7693399,
+            "lng": -0.6410579
+        },
+        "prison": "HMP Humber",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer - HMP Hull & HMP Humber",
@@ -434,7 +626,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9935",
-        "location": "London",
+        "location": {
+            "lat": 51.5874,
+            "lng": -1.0183
+        },
+        "prison": "HMP Huntercombe",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a328,456",
         "title": "201706: Prison Officer -  HMP Huntercombe",
@@ -443,7 +639,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9936",
-        "location": "Maidstone",
+        "location": {
+            "lat": 51.2793606,
+            "lng": 0.5237286
+        },
+        "prison": "HMP Maidstone",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer - HMP Maidstone",
@@ -452,7 +652,11 @@
     {
         "closing_date": "9 Jul 2017 23:55 BST",
         "id": "9937",
-        "location": "Newport (Isle of Wight)",
+        "location": {
+            "lat": 50.713196,
+            "lng": -1.3076464
+        },
+        "prison": "HMP/YOI Isle of Wight",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer - HMP/YOI Isle of Wight",
@@ -461,7 +665,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9938",
-        "location": "Worcester",
+        "location": {
+            "lat": 52.108459,
+            "lng": -1.8540072
+        },
+        "prison": "HMP Long Lartin",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer - HMP Long Lartin",
@@ -470,7 +678,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9939",
-        "location": "Huntingdon",
+        "location": {
+            "lat": 52.2805913,
+            "lng": -0.3122374
+        },
+        "prison": "HMP Littlehey",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a326,456",
         "title": "201706: Prison Officer -  HMP Littlehey",
@@ -479,7 +691,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9940",
-        "location": "Lewes",
+        "location": {
+            "lat": 50.8722285,
+            "lng": -0.005117099999999999
+        },
+        "prison": "HMP/YOI Lewes",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a326,456",
         "title": "201706: Prison Officer - HMP/YOI Lewes",
@@ -488,7 +704,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9941",
-        "location": "Lincoln",
+        "location": {
+            "lat": 53.1679042,
+            "lng": -0.6890860999999999
+        },
+        "prison": "HMP Lincoln and IRC Morton Hall",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer - HMP Lincoln and IRC Morton Hall",
@@ -497,7 +717,11 @@
     {
         "closing_date": "7 Jul 2017 23:55 BST",
         "id": "9942",
-        "location": "Wotton-under-Edge",
+        "location": {
+            "lat": 51.62803419999999,
+            "lng": -2.4367766
+        },
+        "prison": "HMP Leyhill",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201706: Prison Officer - HMP Leyhill",
@@ -506,7 +730,11 @@
     {
         "closing_date": "31 Jul 2017 23:55 BST",
         "id": "9421",
-        "location": "Wrexham",
+        "location": {
+            "lat": 53.036418,
+            "lng": -2.9292142
+        },
+        "prison": "HMP Berwyn",
         "role_type": "Operational Delivery,Prison Officer",
         "salary": "\u00a321,902",
         "title": "201705: Prison Officer - HMP Berwyn",
