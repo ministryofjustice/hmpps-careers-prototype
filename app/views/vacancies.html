@@ -35,7 +35,7 @@
 <script type="text/javascript">
   var locations = [
       {% for vacancy in vacancies %}
-        ['{{ vacancy.prison }}', {{ vacancy.location.lat }}, {{ vacancy.location.lng }}],
+        ['{{ vacancy.prison }}', {{ vacancy.location.lat }}, {{ vacancy.location.lng }}, {{ vacancy.id }}],
       {% endfor %}
   ];
 
@@ -59,6 +59,11 @@
       return function() {
         infowindow.setContent(locations[i][0]);
         infowindow.open(map, marker);
+
+        // Hide all vacancies but the clicked one
+        var id = '#vacancy-' + locations[i][3];
+        $('li.vacancy').addClass('hidden')
+        $(id).removeClass('hidden')
       }
     })(marker, i));
   }
