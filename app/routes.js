@@ -10,7 +10,8 @@ router.get('/', function (req, res) {
 
 router.get('/vacancies', function (req, res) {
   res.render('vacancies', {
-    vacancies: require('./assets/data/vacancies.json')
+    vacancies: require('./assets/data/vacancies.json'),
+    api_key: process.env.GOOGLE_MAPS_API_KEY
   })
 })
 
