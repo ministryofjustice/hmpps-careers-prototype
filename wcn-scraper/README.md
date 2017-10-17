@@ -1,5 +1,7 @@
 # Fetching jobs from WCN
 
+This has been deprecated in favour of [ministryofjustice/hmpps-job-feed-parser](https://github.com/ministryofjustice/hmpps-job-feed-parser).
+
 ## RSS
 
 WCN publish an RSS feed of all jobs, at;
